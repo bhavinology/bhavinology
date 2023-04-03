@@ -7,8 +7,9 @@
   <a href="https://twitter.com/Bhavinology">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-     <img src="https://komarev.com/ghpvc/?username=bhavinology&style=plastic&color=brightgreen" alt=""/>
+    
 </div>
+   <img src="https://komarev.com/ghpvc/?username=bhavinology&style=plastic&color=brightgreen" alt=""/>
   <h2>Hi 👋, I'm Bhavin Patel.</h2>
  
 </div>
