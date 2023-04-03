@@ -9,6 +9,7 @@
   </a>
 </div>
   <h2>Hi 👋, I'm Bhavin Patel.</h2>
+  <img src="https://komarev.com/ghpvc/?username=bhavinology&style=plastic&color=brightgreen" alt=""/>
 </div>
 
 
