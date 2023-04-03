@@ -25,6 +25,7 @@ About Me:
 - 💡 Building projects
 
 ### :hammer_and_wrench: Languages and Tools :
+---
 
 <div> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -35,26 +36,14 @@ About Me:
 </div>
 
 ### :fire: My Stats : 
+---
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bhavinology&theme=vue-dark&hide_border=true&border_radius=4.7)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavinology&theme=vue-dark&show_icons=true)
 
 ### :writing_hand: Blog Posts :
+---
 
 <a href="https://bhavinlovestoexplain.hashnode.dev/hoisting-and-temporal-dead-zonetdz-in-javascript">Hoisting in JavaScrpt</a>
 
-<!--
-**bhavinology/bhavinology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
