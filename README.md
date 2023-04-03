@@ -18,11 +18,12 @@
 </div>
 
 About Me:
+---
 
 - 🧠 Self taught developer
 - 👩‍💻 Web dev enthusiast
 - 💡 Building projects
-- 
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div> 
