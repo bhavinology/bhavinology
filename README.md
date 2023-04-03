@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-  <h2>### Hi 👋, I'm Bhavin Patel. </h2>
+  <h2>Hi 👋, I'm Bhavin Patel.</h2>
 </div>
 
 
