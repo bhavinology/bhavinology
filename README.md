@@ -18,6 +18,9 @@
 </div>
 
 
+🧠 Self taught developer
+👩‍💻 Web dev enthusiast
+💡 Building projects
 
 <!--
 **bhavinology/bhavinology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
