@@ -14,7 +14,6 @@
  
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <img src="https://cutshort.io/_next/image?url=https%3A%2F%2Fcdn.cutshort.io%2Fcertificates%2F79878.jpg&w=1920&q=75" />
 </div>
 
